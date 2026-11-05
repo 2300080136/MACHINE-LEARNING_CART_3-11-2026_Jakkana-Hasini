@@ -1,0 +1,17 @@
+Outlook,Court,Wind,Temperature,Play
+Sunny,Dry,Calm,Warm,Yes
+Sunny,Dry,Calm,Cool,Yes
+Sunny,Dry,Windy,Warm,No
+Sunny,Dry,Windy,Cool,No
+Sunny,Wet,Calm,Warm,No
+Sunny,Wet,Calm,Cool,No
+Sunny,Wet,Windy,Warm,No
+Sunny,Wet,Windy,Cool,No
+Rainy,Dry,Calm,Warm,Yes
+Rainy,Dry,Calm,Cool,Yes
+Rainy,Dry,Windy,Warm,No
+Rainy,Dry,Windy,Cool,No
+Rainy,Wet,Calm,Warm,Yes
+Rainy,Wet,Calm,Cool,Yes
+Rainy,Wet,Windy,Warm,No
+Rainy,Wet,Windy,Cool,No

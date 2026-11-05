@@ -1,0 +1,5 @@
+Feature,Left Categories,Right Categories,Parent Gini,Left Child Gini,Right Child Gini,Weighted Child Gini,Gini Reduction
+Court,"('Dry',)",['Wet'],0.46875,0.5,0.375,0.4375,0.03125
+Outlook,"('Rainy',)",['Sunny'],0.46875,0.5,0.375,0.4375,0.03125
+Temperature,"('Cool',)",['Warm'],0.46875,0.46875,0.46875,0.46875,0.0
+Wind,"('Calm',)",['Windy'],0.46875,0.375,0.0,0.1875,0.28125
